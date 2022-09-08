@@ -1,0 +1,49 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/feather"
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/custom_crafter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "minecraft:item/additional/custom_boss/true_blaze_nomal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 335
+            },
+            "model": "minecraft:item/additional/custom_boss/true_blaze_blocking"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 336
+            },
+            "model": "minecraft:item/additional/events/firework_vindicator"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 337
+            },
+            "model": "minecraft:item/additional/events/beatboard"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 338
+            },
+            "model": "minecraft:item/additional/events/auto_firework_machine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 339
+            },
+            "model": "minecraft:item/additional/recovery_watch"
+        }
+    ]
+}
