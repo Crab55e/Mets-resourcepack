@@ -1,14 +1,7 @@
 {
     "pack": {
         "pack_format": 9,
-        "description": [
-            "",
-            {
-                "text": "Met's resourcepack\n\u0020\u0020",
-                "color": "#00ffff"
-            },
-            "2022/6/23"
-        ],
+        "description": ["", { "text": "Met's resourcepack\n\u0020\u0020", "color": "#00ffff" }, "2022/6/23"],
         "_comment": "©Met's Server"
     }
 }
