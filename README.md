@@ -2,12 +2,15 @@
 
 ### Met's Resource Pack
 
+[ダウンロード](//mets-svr.com/user-guide/server-resourcepack/)
+
 開発者:
 - PuroguraGames
 - Crab55e
 
-<div>説明:
-Met'sサーバー専用のリソースパックです。<br>
-Met'sサーバーにある特殊アイテムのテクスチャーです。<br>
+説明:
+Met'sサーバー専用のリソースパックです。  
+Met'sサーバーにある特殊アイテムのテクスチャーです。  
 バニラの状態で入れておいても問題ありません。
-</div>
+
+![no-image](https://mets-svr.com/images/favicon.png)
