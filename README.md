@@ -14,3 +14,4 @@ Met'sサーバーにある特殊アイテムのテクスチャーです。
 バニラの状態で入れておいても問題ありません。
 
 ![no-image](https://mets-svr.com/images/favicon.png)
+by Purogura
