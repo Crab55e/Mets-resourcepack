@@ -1,7 +1,22 @@
 {
     "pack": {
         "pack_format": 9,
-        "description": ["", { "text": "Met's resourcepack\n\u0020\u0020", "color": "#00ffff" }, "2022/6/23"],
-        "_comment": "©Met's Server"
+        "description": [
+            "Met's resourcepack",
+            "\n",
+            "ver. 1.0"
+        ],
+        "info.github": "GitHub Repository: https://github.com/Crab55e/Mets-resourcepack/ ",
+        "info.license": "License: MIT, to /LICENSe file ",
+        "info.contact.discord": "https://discord.mets-svr.com/",
+        "info.contact.twitter": "https://twitter.com/Mets_Server/"
+    },
+    "info": {
+        "github": "https://github.com/Crab55e/Mets-resourcepack/ ",
+        "license": "MIT, to /LICENSE file.",
+        "contact": {
+            "discord": "https://discord.mets-svr.com/",
+            "twitter": "https://twitter.com/Mets_Server/"
+        }
     }
 }
