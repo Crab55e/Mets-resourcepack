@@ -2,7 +2,7 @@
 
 ### Met's Resource Pack
 
-[ダウンロード](//mets-svr.com/user-guide/server-resourcepack/)
+[ダウンロード](//github.com/Crab55e/Mets-resourcepack/releases/download/1.1.0/mets-resources.zip/)
 
 開発者:
 - PuroguraGames
