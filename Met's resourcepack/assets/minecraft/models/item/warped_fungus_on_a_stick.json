@@ -4,9 +4,16 @@
         "layer0": "minecraft:item/warped_fungus_on_a_stick"
     },
     "overrides": [{
-        "predicate": {
-            "custom_model_data": 333
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/fire_sword"
         },
-        "model": "minecraft:item/additional/fire_sword"
-    }]
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "minecraft:item/additional/flaming_fire_sword"
+        }
+    ]
 }
