@@ -1,4 +1,4 @@
-# Mets-resourcepack
+<h1><img src="https://mets-svr.com/images/favicon.png" style="width:22px"> Mets-resourcepack</h1>
 
 ### Met's Resource Pack
 
@@ -12,5 +12,3 @@
 Met'sサーバー専用のリソースパックです。  
 サーバーにある特殊な要素をサポートするために必要です   
 常に入れておいても何かを上書きすることは基本的にないように作ってあります
-
-![no-image](https://mets-svr.com/images/favicon.png)
