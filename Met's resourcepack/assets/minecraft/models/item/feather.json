@@ -44,6 +44,12 @@
                 "custom_model_data": 339
             },
             "model": "minecraft:item/additional/recovery_watch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 340
+            },
+            "model": "minecraft:item/additional/elytex"
         }
     ]
 }
