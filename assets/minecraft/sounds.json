@@ -1,0 +1,13 @@
+{
+
+    "additional.mg.cello": {
+        "sounds": [
+            "additional/musical_gadgets/cello"
+        ]
+    },
+    "additional.mg.test": {
+        "sounds": [
+            "additional/musical_gadgets/test"
+        ]
+    }
+}
