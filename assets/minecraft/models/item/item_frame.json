@@ -20,6 +20,12 @@
                 "custom_model_data": 335
             },
             "model": "minecraft:item/additional/ices/icemaker"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 338
+            },
+            "model": "minecraft:item/additional/events/halloween/pumpkin_egg"
         }
     ]
 }
