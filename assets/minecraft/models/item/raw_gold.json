@@ -4,9 +4,16 @@
         "layer0": "minecraft:item/raw_gold"
     },
     "overrides": [{
-        "predicate": {
-            "custom_model_data": 333
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/trophies/normal"
         },
-        "model": "minecraft:item/additional/the_trophy"
-    }]
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "minecraft:item/additional/trophies/gun_battle"
+        }
+    ]
 }
