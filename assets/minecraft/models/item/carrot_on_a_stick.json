@@ -4,9 +4,16 @@
         "layer0": "minecraft:item/carrot_on_a_stick"
     },
     "overrides": [{
-        "predicate": {
-            "custom_model_data": 334
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "minecraft:item/additional/earth_rod"
         },
-        "model": "minecraft:item/additional/earth_rod"
-    }]
+        {
+            "predicate": {
+                "custom_model_data": 335
+            },
+            "model": "minecraft:item/additional/meteoriter/meteoriter"
+        }
+    ]
 }
