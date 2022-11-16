@@ -50,6 +50,12 @@
                 "custom_model_data": 340
             },
             "model": "minecraft:item/additional/elytex"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 341
+            },
+            "model": "minecraft:item/additional/meteoriter/meteorite"
         }
     ]
 }
