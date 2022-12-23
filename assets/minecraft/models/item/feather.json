@@ -62,6 +62,12 @@
                 "custom_model_data": 342
             },
             "model": "minecraft:item/additional/events/sbfight/snow_block"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 343
+            },
+            "model": "minecraft:item/additional/events/sbfight/trap"
         }
     ]
 }
