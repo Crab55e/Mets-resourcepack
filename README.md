@@ -7,6 +7,7 @@
 開発者:
 - PuroguraGames
 - Crab55e
+- Buta_taicho
 
 説明:
 Met'sサーバー専用のリソースパックです。  

@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/yellow_candle"
+    },
+    "overrides": [{
+        "predicate": {
+            "custom_model_data": 333
+        },
+        "model": "minecraft:item/additional/events/buta_made/puni"
+    }]
+}
