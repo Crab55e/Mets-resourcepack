@@ -68,6 +68,12 @@
                 "custom_model_data": 343
             },
             "model": "minecraft:item/additional/events/sbfight/trap"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 344
+            },
+            "model": "minecraft:item/additional/events/omikuji"
         }
     ]
 }
