@@ -4,9 +4,16 @@
         "layer0": "minecraft:item/red_candle"
     },
     "overrides": [{
-        "predicate": {
-            "custom_model_data": 333
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/events/buta_made/puro"
         },
-        "model": "minecraft:item/additional/events/buta_made/puro"
-    }]
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "minecraft:item/additional/events/buta_made/gotti"
+        }
+    ]
 }
