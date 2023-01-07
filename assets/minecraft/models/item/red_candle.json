@@ -2,11 +2,30 @@
     "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "minecraft:item/red_candle"
-},
-"overrides": [
-{"predicate": {"custom_model_data": 333},"model":"minecraft:item/additional/events/buta_made/puro"},
-{"predicate": {"custom_model_data": 334},"model":"minecraft:item/additional/events/buta_made/gotti"},
-{"predicate": {"custom_model_data": 335},"model":"minecraft:item/additional/events/buta_made/ra-men"},
-{"predicate": {"custom_model_data": 336},"model":"minecraft:item/additional/events/buta_made/tomapon"}
-]
+    },
+    "overrides": [{
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/events/buta_made/puro"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "minecraft:item/additional/events/buta_made/gotti"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 335
+            },
+            "model": "minecraft:item/additional/events/buta_made/ra-men"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 336
+            },
+            "model": "minecraft:item/additional/events/buta_made/tomapon"
+        }
+    ]
 }
