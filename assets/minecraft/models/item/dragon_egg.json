@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:block/dragon_egg",
-    "overrides": [{
+    "overrides": [
+        {
             "predicate": {
                 "custom_model_data": 333
             },

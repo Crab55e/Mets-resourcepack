@@ -1,5 +1,6 @@
         {
-            "providers": [{
+            "providers": [
+                {
                     "type": "bitmap",
                     "file": "minecraft:font/crab55e_gomennnasai.png",
                     "ascent": 20,

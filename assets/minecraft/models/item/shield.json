@@ -13,7 +13,8 @@
             ],
             "translation": [
                 10,
-                6, -4
+                6,
+                -4
             ],
             "scale": [
                 1,
@@ -44,8 +45,10 @@
                 180,
                 5
             ],
-            "translation": [-10,
-                2, -10
+            "translation": [
+                -10,
+                2,
+                -10
             ],
             "scale": [
                 1.25,
@@ -61,7 +64,8 @@
             ],
             "translation": [
                 10,
-                0, -10
+                0,
+                -10
             ],
             "scale": [
                 1.25,
@@ -71,7 +75,9 @@
         },
         "gui": {
             "rotation": [
-                15, -25, -5
+                15,
+                -25,
+                -5
             ],
             "translation": [
                 2,
@@ -90,8 +96,10 @@
                 180,
                 0
             ],
-            "translation": [-2,
-                4, -5
+            "translation": [
+                -2,
+                4,
+                -5
             ],
             "scale": [
                 0.5,
@@ -117,7 +125,8 @@
             ]
         }
     },
-    "overrides": [{
+    "overrides": [
+        {
             "predicate": {
                 "blocking": 1
             },

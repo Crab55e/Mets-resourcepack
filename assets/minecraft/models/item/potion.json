@@ -4,10 +4,12 @@
         "layer0": "item/potion_overlay",
         "layer1": "item/potion"
     },
-    "overrides": [{
-        "predicate": {
-            "custom_model_data": 333
-        },
-        "model": "minecraft:item/additional/ices"
-    }]
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/ices"
+        }
+    ]
 }

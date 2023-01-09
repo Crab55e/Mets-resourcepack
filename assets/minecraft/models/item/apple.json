@@ -3,15 +3,18 @@
     "textures": {
         "layer0": "minecraft:item/apple"
     },
-    "overrides": [{
-        "predicate": {
-            "custom_model_data": 333
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 333
+            },
+            "model": "minecraft:item/additional/ykn_ship"
         },
-        "model": "minecraft:item/additional/ykn_ship"
-    }, {
-        "predicate": {
-            "custom_model_data": 335
-        },
-        "model": "minecraft:item/additional/events/parkour_seed"
-    }]
+        {
+            "predicate": {
+                "custom_model_data": 335
+            },
+            "model": "minecraft:item/additional/events/parkour_seed"
+        }
+    ]
 }

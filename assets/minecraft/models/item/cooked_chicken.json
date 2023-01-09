@@ -3,7 +3,8 @@
     "textures": {
         "layer0": "minecraft:item/cooked_chicken"
     },
-    "overrides": [{
+    "overrides": [
+        {
             "predicate": {
                 "custom_model_data": 333
             },
