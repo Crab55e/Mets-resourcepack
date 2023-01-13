@@ -21,6 +21,12 @@
                 "custom_model_data": 335
             },
             "model": "minecraft:item/additional/trophies/purogura"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 336
+            },
+            "model": "minecraft:item/additional/trophies/purogura_medal"
         }
     ]
 }
