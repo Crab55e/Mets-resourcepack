@@ -8,6 +8,7 @@
 - PuroguraGames
 - Crab55e
 - Buta_taicho
+- niaaaaaaaaaa
 
 ### 説明
 Met'sサーバー専用のリソースパックです。  
