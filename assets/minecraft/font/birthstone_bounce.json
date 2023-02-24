@@ -1,0 +1,8 @@
+{
+    "providers": [{
+        "type": "ttf",
+        "file": "minecraft:birthstone_bounce.ttf",
+        "size": 15,
+        "oversample": 10
+    }]
+}

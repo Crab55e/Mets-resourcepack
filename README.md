@@ -1,8 +1,8 @@
-<h1><img src="https://mets-svr.com/images/logo-v2.png" style="width:21px"> Mets-resourcepack</h1>
+<h1><img src="https://mets-svr.com/images/logo-v2.png" style="width:30px"> Mets-resourcepack</h1>
 
 ### Met's Resource Pack
 
-[ダウンロード](https://github.com/Crab55e/Mets-resourcepack/releases/download/1.10.1/mets-resources.zip)
+[ダウンロード](https://github.com/Crab55e/Mets-resourcepack/releases/latest/download/mets-resources.zip)
 
 開発者:
 - PuroguraGames

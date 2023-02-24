@@ -1,0 +1,8 @@
+{
+    "providers": [{
+        "type": "ttf",
+        "file": "minecraft:josefin_sans.ttf",
+        "size": 10,
+        "oversample": 10
+    }]
+}
