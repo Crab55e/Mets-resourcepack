@@ -1,4 +1,4 @@
-<h1><img src="https://mets-svr.com/images/favicon.png" style="width:21px"> Mets-resourcepack</h1>
+<h1><img src="https://mets-svr.com/images/logo-v2.png" style="width:21px"> Mets-resourcepack</h1>
 
 ### Met's Resource Pack
 
