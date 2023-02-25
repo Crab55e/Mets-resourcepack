@@ -3,18 +3,18 @@
     "textures": {
         "layer0": "minecraft:item/apple"
     },
-    "overrides": [
-        {
+    "overrides": [{
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "minecraft:item/additional/ykn_ship"
+            "__comment": "構文の参考にするだろうからとりあえず残しておく、modelの値はnullだとバグるので適当なものを",
+            "model": "mets_resources:item/3d/weapon/siberian_button/1"
         },
         {
             "predicate": {
-                "custom_model_data": 335
+                "custom_model_data": 334
             },
-            "model": "minecraft:item/additional/events/parkour_seed"
+            "model": "mets_resources:item/3d/weapon/siberian_button/1"
         }
     ]
 }

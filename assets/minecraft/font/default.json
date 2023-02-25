@@ -1,7 +1,7 @@
 {
     "providers": [{
         "type": "bitmap",
-        "file": "minecraft:font/logo-v2-x64.png",
+        "file": "mets_resources:font/logos/v2_x64.png",
         "ascent": 125,
         "height": 125,
         "chars": [

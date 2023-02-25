@@ -7,25 +7,25 @@
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "minecraft:item/additional/events/buta_made/puro"
+            "model": "mets_resources:item/3d/buta_player_models/puro"
         },
         {
             "predicate": {
                 "custom_model_data": 334
             },
-            "model": "minecraft:item/additional/events/buta_made/gotti"
+            "model": "mets_resources:item/3d/buta_player_models/gotti"
         },
         {
             "predicate": {
                 "custom_model_data": 335
             },
-            "model": "minecraft:item/additional/events/buta_made/ra-men"
+            "model": "mets_resources:item/3d/buta_player_models/ra-men"
         },
         {
             "predicate": {
                 "custom_model_data": 336
             },
-            "model": "minecraft:item/additional/events/buta_made/tomapon"
+            "model": "mets_resources:item/3d/buta_player_models/tomapon"
         }
     ]
 }

@@ -3,30 +3,29 @@
     "textures": {
         "layer0": "minecraft:item/raw_gold"
     },
-    "overrides": [
-        {
+    "overrides": [{
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "minecraft:item/additional/trophies/normal"
+            "model": "mets_resources:item/3d/trophies/normal"
         },
         {
             "predicate": {
                 "custom_model_data": 334
             },
-            "model": "minecraft:item/additional/trophies/gun_battle"
+            "model": "mets_resources:item/3d/trophies/gun_battle"
         },
         {
             "predicate": {
                 "custom_model_data": 335
             },
-            "model": "minecraft:item/additional/trophies/purogura"
+            "model": "mets_resources:item/3d/trophies/purogura"
         },
         {
             "predicate": {
                 "custom_model_data": 336
             },
-            "model": "minecraft:item/additional/trophies/purogura_medal"
+            "model": "mets_resources:item/3d/trophies/purogura_medal"
         }
     ]
 }

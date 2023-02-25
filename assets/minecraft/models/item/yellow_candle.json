@@ -3,12 +3,10 @@
     "textures": {
         "layer0": "minecraft:item/yellow_candle"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 333
-            },
-            "model": "minecraft:item/additional/events/buta_made/puni"
-        }
-    ]
+    "overrides": [{
+        "predicate": {
+            "custom_model_data": 333
+        },
+        "model": "mets_resources:item/3d/buta_player_models/puni"
+    }]
 }

@@ -3,24 +3,23 @@
     "textures": {
         "layer0": "minecraft:item/purple_candle"
     },
-    "overrides": [
-        {
+    "overrides": [{
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "minecraft:item/additional/events/buta_made/nasu"
+            "model": "mets_resources:item/3d/buta_player_models/nasu"
         },
         {
             "predicate": {
                 "custom_model_data": 334
             },
-            "model": "minecraft:item/additional/events/buta_made/kuru"
+            "model": "mets_resources:item/3d/buta_player_models/kuru"
         },
         {
             "predicate": {
                 "custom_model_data": 335
             },
-            "model": "minecraft:item/additional/events/buta_made/2B"
+            "model": "mets_resources:item/3d/buta_player_models/2B"
         }
     ]
 }
