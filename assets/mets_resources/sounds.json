@@ -1,0 +1,12 @@
+{
+    "custom.musical_gadgets.clarinet": {
+        "sounds": [
+            "mets_resources:custom/musical_gadgets/clarinet"
+        ]
+    },
+    "custom.musical_gadgets.cello": {
+        "sounds": [
+            "mets_resources:custom/musical_gadgets/cello"
+        ]
+    }
+}
