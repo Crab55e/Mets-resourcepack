@@ -1,12 +1,12 @@
 {
-    "additional.mg.cello": {
+    "custom.musical_gadgets.clarinet": {
         "sounds": [
-            "additional/musical_gadgets/cello"
+            "mets_resources:custom/musical_gadgets/clarinet"
         ]
     },
-    "additional.mg.test": {
+    "custom.musical_gadgets.cello": {
         "sounds": [
-            "additional/musical_gadgets/test"
+            "mets_resources:custom/musical_gadgets/cello"
         ]
     }
 }
