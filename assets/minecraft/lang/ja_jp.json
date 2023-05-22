@@ -1,7 +1,7 @@
 {
     "advancements.adventure.spyglass_at_parrot.description": "望遠鏡を通してインコを観察する",
     "entity.minecraft.parrot": "インコ",
-    "item.minecraft.parrot_spawn_egg": "インコのスポーンエッグ"
+    "item.minecraft.parrot_spawn_egg": "インコのスポーンエッグ",
     "subtitles.entity.parrot.ambient": "インコが鳴く",
     "subtitles.entity.parrot.death": "インコが死ぬ",
     "subtitles.entity.parrot.eats": "インコが食べる",
