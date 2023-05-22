@@ -8,5 +8,10 @@
         "sounds": [
             "mets_resources:custom/musical_gadgets/cello"
         ]
+    },
+    "custom.musical_gadgets.piano": {
+        "sounds": [
+            "mets_resources:custom/musical_gadgets/piano"
+        ]
     }
 }
