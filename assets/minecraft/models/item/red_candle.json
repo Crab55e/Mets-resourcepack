@@ -7,25 +7,25 @@
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "mets_resources:item/3d/buta_player_models/puro"
+            "model": "mets_resources:item/3d/buta_player_models/Purogura"
         },
         {
             "predicate": {
                 "custom_model_data": 334
             },
-            "model": "mets_resources:item/3d/buta_player_models/gotti"
+            "model": "mets_resources:item/3d/buta_player_models/gotti52"
         },
         {
             "predicate": {
                 "custom_model_data": 335
             },
-            "model": "mets_resources:item/3d/buta_player_models/ra-men"
+            "model": "mets_resources:item/3d/buta_player_models/jorafoka"
         },
         {
             "predicate": {
                 "custom_model_data": 336
             },
-            "model": "mets_resources:item/3d/buta_player_models/tomapon"
+            "model": "mets_resources:item/3d/buta_player_models/tomaponn"
         }
     ]
 }

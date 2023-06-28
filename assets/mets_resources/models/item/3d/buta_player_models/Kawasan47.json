@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/kawa",
-        "particle": "mets_resources:3d/buta_player_models/kawa"
+        "0": "mets_resources:3d/buta_player_models/Kawasan47",
+        "particle": "mets_resources:3d/buta_player_models/Kawasan47"
     },
     "elements": [{
             "from": [4, 10, 4],

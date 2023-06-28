@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/puro",
-        "particle": "mets_resources:3d/buta_player_models/puro"
+        "0": "mets_resources:3d/buta_player_models/Purogura",
+        "particle": "mets_resources:3d/buta_player_models/Purogura"
     },
     "elements": [{
             "from": [4, 10, 4],

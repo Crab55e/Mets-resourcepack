@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/2b",
-        "particle": "mets_resources:3d/buta_player_models/2b"
+        "0": "mets_resources:3d/buta_player_models/2Benpitsu",
+        "particle": "mets_resources:3d/buta_player_models/2Benpitsu"
     },
     "elements": [{
             "from": [4, 10, 4],

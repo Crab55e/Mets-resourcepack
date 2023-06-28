@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/god",
-        "particle": "mets_resources:3d/buta_player_models/god"
+        "0": "mets_resources:3d/buta_player_models/TAKE5595",
+        "particle": "mets_resources:3d/buta_player_models/TAKE5595"
     },
     "elements": [{
             "from": [4, 10, 4],

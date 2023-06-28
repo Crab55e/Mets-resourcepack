@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/puni",
-        "particle": "mets_resources:3d/buta_player_models/puni"
+        "0": "mets_resources:3d/buta_player_models/punisuke089",
+        "particle": "mets_resources:3d/buta_player_models/punisuke089"
     },
     "elements": [{
             "from": [

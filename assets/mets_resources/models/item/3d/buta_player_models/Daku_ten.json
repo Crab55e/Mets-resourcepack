@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/dakuten",
-        "particle": "mets_resources:3d/buta_player_models/dakuten"
+        "0": "mets_resources:3d/buta_player_models/Daku_ten",
+        "particle": "mets_resources:3d/buta_player_models/Daku_ten"
     },
     "elements": [{
             "from": [4, 10, 4],

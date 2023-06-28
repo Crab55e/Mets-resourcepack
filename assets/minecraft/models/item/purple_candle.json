@@ -7,19 +7,13 @@
             "predicate": {
                 "custom_model_data": 333
             },
-            "model": "mets_resources:item/3d/buta_player_models/nasu"
+            "model": "mets_resources:item/3d/buta_player_models/yakinasu0731"
         },
         {
             "predicate": {
                 "custom_model_data": 334
             },
-            "model": "mets_resources:item/3d/buta_player_models/kuru"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 335
-            },
-            "model": "mets_resources:item/3d/buta_player_models/2B"
+            "model": "mets_resources:item/3d/buta_player_models/2Benpitsu"
         }
     ]
 }

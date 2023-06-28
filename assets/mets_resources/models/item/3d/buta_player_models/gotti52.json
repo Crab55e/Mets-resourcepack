@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/gotti",
-        "particle": "mets_resources:3d/buta_player_models/gotti"
+        "0": "mets_resources:3d/buta_player_models/gotti52",
+        "particle": "mets_resources:3d/buta_player_models/gotti52"
     },
     "elements": [{
             "from": [4, 10, 4],

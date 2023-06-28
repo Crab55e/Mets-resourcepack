@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/kani",
-        "particle": "mets_resources:3d/buta_player_models/kani"
+        "0": "mets_resources:3d/buta_player_models/Crab55e",
+        "particle": "mets_resources:3d/buta_player_models/Crab55e"
     },
     "elements": [{
             "from": [

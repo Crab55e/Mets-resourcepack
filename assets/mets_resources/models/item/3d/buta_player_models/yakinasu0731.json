@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "mets_resources:3d/buta_player_models/nasu",
-        "particle": "mets_resources:3d/buta_player_models/nasu"
+        "0": "mets_resources:3d/buta_player_models/yakinasu0731",
+        "particle": "mets_resources:3d/buta_player_models/yakinasu0731"
     },
     "elements": [{
             "from": [4, 10, 4],
