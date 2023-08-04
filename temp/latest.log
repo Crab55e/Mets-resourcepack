@@ -1,0 +1,31 @@
+#CHECK#[18:43:56] [Worker-Main-13/WARN]: Texture mets_resources:item/2d/trophies/baespot with size 370x320 limits mip level from 4 to 1
+?(?????????????????????????????????????????????????????????)
+#CHECK#[18:43:56] [Worker-Main-5/WARN]: Unable to load model: 'mets_resources:item/3d/trophies/purogura' referenced from: minecraft:raw_gold#inventory: java.io.FileNotFoundException: mets_resources:models/item/3d/trophies/purogura.json
+#CHECK#[18:43:56] [Worker-Main-5/WARN]: Unable to load model: 'mets_resources:item/3d/trophies/gun_battle' referenced from: minecraft:raw_gold#inventory: java.io.FileNotFoundException: mets_resources:models/item/3d/trophies/gun_battle.json
+#CHECK#[18:43:56] [Worker-Main-5/WARN]: Unable to load model: 'mets_resources:item/3d/trophies/purogura_medal' referenced from: minecraft:raw_gold#inventory: java.io.FileNotFoundException: mets_resources:models/item/3d/trophies/purogura_medal.json
+=============================
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:red_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/Purogura
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/gotti52
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/jorafoka
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/tomaponn
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:light_gray_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/Buta_taicho
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:purple_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/2Benpitsu
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/yakinasu0731
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:brown_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/Kawasan47
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:yellow_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/punisuke089
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:orange_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/Crab55e
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:lime_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/TAKE5595
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:black_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/kae_maru
+[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:light_blue_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/Ninalka_2400
+#CHECK#[18:43:56] [Worker-Main-5/WARN]: Missing textures in model minecraft:gray_candle#inventory:
+    minecraft:textures/atlas/blocks.png:mets_resources:3d/buta_player_models/Daku_ten
+=============================

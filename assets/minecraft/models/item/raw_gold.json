@@ -8,24 +8,6 @@
                 "custom_model_data": 333
             },
             "model": "mets_resources:item/3d/trophies/normal"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 334
-            },
-            "model": "mets_resources:item/3d/trophies/gun_battle"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 335
-            },
-            "model": "mets_resources:item/3d/trophies/purogura"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 336
-            },
-            "model": "mets_resources:item/3d/trophies/purogura_medal"
         }
     ]
 }
