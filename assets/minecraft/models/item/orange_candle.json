@@ -8,5 +8,11 @@
             "custom_model_data": 333
         },
         "model": "mets_resources:item/3d/buta_player_models/crab55e"
+},
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "mets_resources:item/3d/buta_player_models/crab55e_maid"
     }]
 }
