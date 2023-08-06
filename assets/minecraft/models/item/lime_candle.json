@@ -8,5 +8,11 @@
             "custom_model_data": 333
         },
         "model": "mets_resources:item/3d/buta_player_models/take5595"
+},
+        {
+            "predicate": {
+                "custom_model_data": 334
+            },
+            "model": "mets_resources:item/3d/buta_player_models/aquamarine385"
     }]
 }
