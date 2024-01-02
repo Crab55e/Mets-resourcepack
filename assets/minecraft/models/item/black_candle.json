@@ -8,5 +8,23 @@
             "custom_model_data": 333
         },
         "model": "mets_resources:item/3d/buta_player_models/kae_maru"
+    },
+    {
+        "predicate": {
+            "custom_model_data": 334
+        },
+        "model": "mets_resources:item/3d/buta_player_models/tubo"
+},
+{
+"predicate": {
+    "custom_model_data": 335
+},
+"model": "mets_resources:item/3d/buta_player_models/tubo_kae1"
+},
+{
+    "predicate": {
+        "custom_model_data": 336
+    },
+    "model": "mets_resources:item/3d/buta_player_models/tubo_kae2"
     }]
 }
