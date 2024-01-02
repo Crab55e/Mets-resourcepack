@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 15,
+        "pack_format": 22,
         "description": [
             "Met's resourcepack",
             "\n",
-            "ver. 2.2.0"
+            "ver. 2.2.1"
         ]
     },
     "info": {
